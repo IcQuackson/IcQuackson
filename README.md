@@ -52,6 +52,58 @@
 
 ###
 
+<section class="section">
+  <h2>Projects</h2>
+  <p>Here are some of the projects I've been working on:</p>
+  <table>
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/IcQuackson/webserv-42">Webserv</a></td>
+        <td>Webserv is a C++98 implementation of an HTTP server, inspired by NGINX.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/IcQuackson/minishell">Minishell</a></td>
+        <td>A custom shell implementation project written in C. It provides a shell interface for executing commands and managing processes.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/IcQuackson/42-Portfolio-Generator">42 Portfolio Generator</a></td>
+        <td>42 Portfolio Generator is a tool designed to fetch project and cursus information from the 42 API, allowing users to easily generate and visualize their project portfolios.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/IcQuackson/SuperMarket-DataBase">Supermarket Database</a></td>
+        <td>This project focuses on designing a database schema using ER diagrams, creating tables, triggers, and procedures to handle various supermarket operations efficiently.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/IcQuackson/Spring-Boot-Login-Page">Spring Boot Login Page</a> </td>
+        <td>This project is a Spring Boot application that implements a simple login page with features including login, sign up, reset and secure password storing.
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/IcQuackson/Inception-42">Inception</a></td>
+        <td>This project aims to broaden my knowledge of system administration by using Docker. I virtualized several Docker images and ran the containers connecting them using a docker network.
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/abaiao-r/ft_transcendence">Transcendence</a> (IN PROGRESS...) </td>
+        <td>Website with a real-time multiplayer Pong contest with Python (Django) backend, JavaScript (Bootstrap Toolkit) frontend with features like Game Stats, User Authentication, 3D Graphics, Security, Database connection and many more </td>
+      </tr>
+      <tr>
+        <td>Many more...</td>
+        <td>You can check my repositories for more cool projects :)</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+
+###
+
 <h2 align="left">Socials</h2>
 
 ###
@@ -75,3 +127,4 @@
 </div>
 
 ###
+
