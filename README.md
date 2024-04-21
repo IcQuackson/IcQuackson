@@ -64,6 +64,10 @@
     </thead>
     <tbody>
       <tr>
+        <td><a href="https://github.com/IcQuackson/Specto-Bard">Specto-Bard</a></td>
+        <td>Specto-Bard is a full stack Web app utilizing AI to convert user stories into test cases.</td>
+      </tr>
+      <tr>
         <td><a href="https://github.com/IcQuackson/webserv-42">Webserv</a></td>
         <td>Webserv is a C++98 implementation of an HTTP server, inspired by NGINX.</td>
       </tr>
