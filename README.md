@@ -56,6 +56,7 @@
 
 | Project | Description |
 |---------|-------------|
+| [Transcendence](https://github.com/abaiao-r/ft_transcendence) | A local multiplayer Pong game integrated into a full-stack web application with a Python (Django) backend and JavaScript (Bootstrap Toolkit) frontend. Key features include game stats, user authentication, 3D graphics, cyber security and much more. |
 | [Specto-Bard](https://github.com/IcQuackson/Specto-Bard) | AI-powered full stack Web app converting user stories into test cases. |
 | [Webserv](https://github.com/IcQuackson/webserv-42) | C++98 HTTP server implementation, inspired by NGINX. |
 | [Minishell](https://github.com/IcQuackson/minishell) | Custom shell in C for executing commands and managing processes. |
@@ -63,8 +64,7 @@
 | [Supermarket Database](https://github.com/IcQuackson/SuperMarket-DataBase) | Efficient database schema handling supermarket operations. |
 | [Spring Boot Login Page](https://github.com/IcQuackson/Spring-Boot-Login-Page) | Spring Boot app with login, sign up, reset, and secure password storage. |
 | [Inception](https://github.com/IcQuackson/Inception-42) | Docker-based project broadening system administration knowledge. |
-| [Transcendence](https://github.com/abaiao-r/ft_transcendence) (IN PROGRESS...) | Real-time multiplayer Pong contest website with Python (Django) backend, JavaScript (Bootstrap Toolkit) frontend, featuring Game Stats, User Authentication, 3D Graphics, and more. |
-| Many more... | Explore my repositories for more cool projects! |
+| [Many more...]( https://github.com/IcQuackson?tab=repositories) | Explore my repositories for more cool projects! |
 
 
 ###
