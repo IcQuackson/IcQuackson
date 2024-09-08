@@ -59,6 +59,7 @@
 | [Transcendence](https://github.com/abaiao-r/ft_transcendence) | A local multiplayer Pong game integrated into a full-stack web application with a Python (Django) backend and JavaScript (Bootstrap Toolkit) frontend. Key features include game stats, user authentication, 3D graphics, cyber security and much more. |
 | [Specto-Bard](https://github.com/IcQuackson/Specto-Bard) | AI-powered full stack Web app converting user stories into test cases. |
 | [Webserv](https://github.com/IcQuackson/webserv-42) | C++98 HTTP server implementation, inspired by NGINX. |
+| [ft_ping](https://github.com/IcQuackson/ft_ping) | This project is about recoding the ping command. Networking YAY! |
 | [Minishell](https://github.com/IcQuackson/minishell) | Custom shell in C for executing commands and managing processes. |
 | [42 Portfolio Generator](https://github.com/IcQuackson/42-Portfolio-Generator) | Tool fetching project and cursus info from the 42 API, generating project portfolios. |
 | [Supermarket Database](https://github.com/IcQuackson/SuperMarket-DataBase) | Efficient database schema handling supermarket operations. |
