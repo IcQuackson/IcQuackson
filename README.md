@@ -61,7 +61,7 @@
 | [ft_ping](https://github.com/IcQuackson/ft_ping) | This project is about recoding the ping command. Networking YAY! |
 | [Arachnida](https://github.com/IcQuackson/Arachnida) | Introductory project to web scraping and metadata. |
 | [Webserv](https://github.com/IcQuackson/webserv-42) | C++98 HTTP server implementation, inspired by NGINX. |
-| [ft_otp](https://github.com/IcQuackson/ft_otp) | Introductory project to the notion of one-time password (OTP) with the use of the RFC HOTP. |
+| [ft_otp](https://github.com/IcQuackson/ft_otp) | Introductory project to the notion of one-time-password with the use of RFC TOTP and the RFC HOTP. |
 
 ### Web Development 💻
 
