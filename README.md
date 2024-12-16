@@ -63,6 +63,7 @@
 | [Arachnida](https://github.com/IcQuackson/Arachnida) | Introductory project to web scraping and metadata. |
 | [ft_otp](https://github.com/IcQuackson/ft_otp) | Introductory project to the notion of one-time-password with the use of RFC TOTP and the RFC HOTP. |
 | [ft_onion](https://github.com/IcQuackson/ft_onion) | Introductory project allowing the implementation of a hidden service on tor. |
+| [🔃 Reverse-Me 🔃](https://github.com/IcQuackson/Reverse-Me) | Introductory project to the discipline of reverse engineering. |
 
 ### Web Development 💻
 
