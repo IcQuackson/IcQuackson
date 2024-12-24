@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left">My name is Pedro and I'm a worker student.<br><br>I study at 42 Lisboa.</p>
+<p align="left">My name is Pedro and I'm a CS student with experience in automated testing.<br><br>I study at 42 Lisboa.</p>
 
 ###
 
