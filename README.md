@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Full Stack Development and Cyber Security<br><br>🎯 Goals: Finish school, work my way up and be happy :)<br><br>🎲 Fun fact: Croissants actually originated from Austria. Sorry French people :'(</p>
+<p align="left">📚 I'm currently learning Cyber Security<br><br>🎯 Goals: Learn Cyber Security, work my way up and be happy :)<br><br>🎲 Fun fact: Croissants actually originated from Austria. Sorry French people :'(</p>
 
 ###
 
