@@ -60,11 +60,11 @@
 |---------|-------------|
 | [Webserv](https://github.com/IcQuackson/webserv-42) | C++98 HTTP server implementation, inspired by NGINX. |
 | [ft_ping](https://github.com/IcQuackson/ft_ping) | This project is about recoding the ping command. Networking YAY! |
-| [Arachnida](https://github.com/IcQuackson/Arachnida) | Introductory project to web scraping and metadata. |
-| [ft_otp](https://github.com/IcQuackson/ft_otp) | Introductory project to the notion of one-time-password with the use of RFC TOTP and the RFC HOTP. |
-| [ft_onion](https://github.com/IcQuackson/ft_onion) | Introductory project allowing the implementation of a hidden service on tor. |
-| [🔃 Reverse-Me 🔃](https://github.com/IcQuackson/Reverse-Me) | Introductory project to the discipline of reverse engineering. |
-| [🥷 Stockholm 🥷](https://github.com/IcQuackson/Stockholm) | Introduction to file manipulation by creating a ransomware. |
+| [Arachnida](https://github.com/IcQuackson/Arachnida) | Web scraping and metadata. |
+| [ft_otp](https://github.com/IcQuackson/ft_otp) | Approaching the concept of one-time-password with the use of RFC TOTP and the RFC HOTP. |
+| [ft_onion](https://github.com/IcQuackson/ft_onion) | Implementation of a hidden service on tor. |
+| [🔃 Reverse-Me 🔃](https://github.com/IcQuackson/Reverse-Me) | Reverse engineering binaries and patching. |
+| [🥷 Stockholm 🥷](https://github.com/IcQuackson/Stockholm) | Creating a ransomware through file manipulation. |
 
 ### Web Development 💻
 
