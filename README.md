@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-<p align="left">My name is Pedro and I'm a CS student with experience in automated testing.<br><br>I study at 42 Lisboa.</p>
+<p align="left">Iḿ Quackson!</p>
+<p align="left">I'm a Student @</p>
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/c18b35d0-3977-4e42-97f9-6f3e042e1350" height="100"/>
+  <img src="https://github.com/user-attachments/assets/8d582c64-eb1f-4f0e-bea8-ee74e7d7cdf6" height="100/>
+</p>
+
+
 
 ###
 
@@ -8,7 +16,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Cyber Security<br><br>🎯 Goals: Learn Cyber Security, work my way up and be happy :)<br><br>🎲 Fun fact: Croissants actually originated from Austria. Sorry French people :'(</p>
+<p align="left">🎯 Goals: Learn Cyber Security, work my way up and be happy :)<br><br>🎲 Fun fact: Croissants actually originated from Austria. Sorry French people :'(</p>
 
 ###
 
