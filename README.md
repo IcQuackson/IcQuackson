@@ -5,7 +5,7 @@
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/c18b35d0-3977-4e42-97f9-6f3e042e1350" height="100"/>
-  <img src="https://github.com/user-attachments/assets/8d582c64-eb1f-4f0e-bea8-ee74e7d7cdf6" height="100/>
+  <img src="https://github.com/user-attachments/assets/8d582c64-eb1f-4f0e-bea8-ee74e7d7cdf6" height="100"/>
 </p>
 
 
