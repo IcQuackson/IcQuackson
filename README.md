@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left">Iḿ Quackson!</p>
+<p align="left">Im Quackson!</p>
 <p align="left">I'm a Student @</p>
 
 <p float="left">
